@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_icon"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_contact_us"
+            android:icon="@drawable/aboutus_icon"
+            android:title="Contact Us" />
+        <item
+            android:id="@+id/nav_follow_us"
+            android:icon="@drawable/followus_icon"
+            android:title="Follow On" />
+    </group>
+
+
+    <item android:title="Categories">
+        <menu>
+
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_cake"
+                    android:icon="@drawable/cake"
+                    android:title="Cake" />
+                <item
+                    android:id="@+id/chocolate"
+                    android:icon="@drawable/chocolate"
+                    android:title="Chocolate" />
+                <item
+                    android:id="@+id/nav_combo"
+                    android:icon="@drawable/brownie"
+                    android:title="Combo" />
+
+            </group>
+
+        </menu>
+    </item>
+
+    <item android:title="Profile">
+        <menu>
+
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/profile_icon"
+                    android:title="Profile" />
+                <item
+                    android:id="@+id/login"
+                    android:icon="@drawable/home_icon"
+                    android:title="Login" />
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/logout_icon"
+                    android:title="Logout" />
+
+            </group>
+
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696528472968",
+    "firebase_url": "https://nishu-s-cooking-n-craft.firebaseio.com",
+    "project_id": "nishu-s-cooking-n-craft",
+    "storage_bucket": "nishu-s-cooking-n-craft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696528472968:android:590cf63a2d648a9701483d",
+        "android_client_info": {
+          "package_name": "com.nayanJai.nishuscookingncraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696528472968-8qv2gtnq9o0tip837812nqlfo19mhahf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-2ehGRIRmgTmV_HlD4EvPIpSfCgjuWsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696528472968-8qv2gtnq9o0tip837812nqlfo19mhahf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
